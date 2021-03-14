@@ -1,4 +1,4 @@
-import os,sched,time
+import os,time
 print("Press ctrl+c to Exit")
 while True:
 
