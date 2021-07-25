@@ -3,7 +3,7 @@ This project uses a raspberry pi to take time lapsed images , which are then upl
 ## Installation
 ## Steps:
 * Setup rclone on your raspberry pi
-...Rclone helps you connect your Raspberry pi to your google drive through python commands
+⋅⋅⋅Rclone helps you connect your Raspberry pi to your google drive through python commands ⋅⋅
 ...You can follow the instructions [here](https://pimylifeup.com/raspberry-pi-rclone/). I recommend connecting your Raspberry pi to a screen for this step.
 
 * Install screen on your raspberry pi
