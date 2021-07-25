@@ -1,4 +1,4 @@
-# Rpi_timelapse_gdrive
+# Raspberry Pi Camera
 This project uses a raspberry pi to take time lapsed images , which are then uploaded to Google drive for storage and processing into time lapse movies.
 
 ## Steps:
