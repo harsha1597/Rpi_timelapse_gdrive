@@ -1,6 +1,6 @@
 # Rpi_timelapse_gdrive
 This project uses a raspberry pi to take time lapsed images , which are then uploaded to Google drive for storage and processing into time lapse movies.
-## Installation
+
 ## Steps:
 * Setup rclone on your raspberry pi
 
